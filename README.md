@@ -7,7 +7,7 @@ Niekoniecznie jest to tak eleganckie i czytelne jak w innych narzędziach, ale D
 Istnieją co prawda narzędzia dedykowane do tego typu "kolaboracji" jak np. gitbook, ale coś mi w nich zawsze nie pasowało.
 Jak najbardziej jednak możecie je wykorzystywać w ramach projektu
 
-W ramach zajęć z przedmiotu "Zarządzanie projektami informatycznymi" chcę byście bykonali następujące czynności:
+W ramach zajęć z przedmiotu *"Zarządzanie projektami informatycznymi"* chcę byście bykonali następujące czynności:
 Założenie użytkownika dla każdego z członków zespołu
 - Założenie repozytorium (dostęp dla JS), któe  trzeba klonować na dysk lokalny
 - Opisanie produktu (wymagań biznesowych) – co najmniej po 5000 słów dla 30 różnych produktów 
@@ -15,7 +15,7 @@ Założenie użytkownika dla każdego z członków zespołu
 - Połączenie opisu w jedną całość (commity)
 - Na koniec projektu proponuję usunąć niepotrzebne dane z GitHub
 
-Opis produktu 
+**Opis produktu** 
 Zdefiniowanie charakteru, celu, funkcji, wyglądu produktów
 Potwierdzenie kto będzie użytkownikiem
 Ustalenie skąd będą pochodziły informacje na temat jego funkcjonowania 
