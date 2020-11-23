@@ -21,3 +21,7 @@ W ramach zajęć z przedmiotu *"Zarządzanie projektami informatycznymi"* chcę 
 - Zdefiniowanie charakteru, celu, funkcji, wyglądu produktów
 - Potwierdzenie kto będzie użytkownikiem
 - Ustalenie skąd będą pochodziły informacje na temat jego funkcjonowania 
+
+##Czynności
+1. edytuj plik
+2. Wybierz "Create a new branch for this commit and start a pull request", podaj nazwę i wciśnij przycisk "Commit changes"
