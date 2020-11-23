@@ -10,7 +10,7 @@ Jak najbardziej jednak możecie je wykorzystywać w ramach projektu
 ## Zadania do wykonania
 W ramach zajęć z przedmiotu *"Zarządzanie projektami informatycznymi"* chcę byście wykonali następujące czynności:
 - Założenie użytkownika dla każdego z członków zespołu
-- Założenie repozytorium (dostęp dla JS), któe  trzeba klonować na dysk lokalny
+- Założenie repozytorium z dostępem dla każdego z członków zespołu oraz JakubSyta. Nie trzeba trzeba klonować repozytorium na dysk lokalny
 - Opisanie produktu (wymagań biznesowych) – co najmniej po 5000 słów dla 30 różnych produktów 
 - Po 333 merytoryczne commity z pull request pochodzące od **każdej** osoby
 - Połączenie opisu w jedną całość (merge pull request)
