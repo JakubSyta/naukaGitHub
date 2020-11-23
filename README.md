@@ -30,4 +30,5 @@ W ramach zajęć z przedmiotu *"Zarządzanie projektami informatycznymi"* chcę 
 1. Przejrzyj wprowadzone zmiany "Update README.dm". Skomentuj je wykorzystując przycisk po prawej stronie *"Review changes"* klikając na końcu przycisk *"Submit review"*
 1. Zostaniesz przeniesiony na głównej zakładki *"Pull request"* - Wybierz przycisk *"Merege pull request"* oraz następnie *"Confirm merege"*
 1. Gdy ponownie wejdziecie w zakładkę *"Code"* zobaczysz, że zmiany zostały wprowadzone
+
 **UWAGA - przypilnujcie by nie zatwierdzać własnych zmian, a wyłącznie cudze**
