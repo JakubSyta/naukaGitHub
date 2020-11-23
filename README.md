@@ -10,12 +10,12 @@ Jak najbardziej jednak możecie je wykorzystywać w ramach projektu.
 
 ## Zadania do wykonania
 W ramach zajęć z przedmiotu *"Zarządzanie projektami informatycznymi"* chcę byście wykonali następujące czynności:
-- Założenie użytkownika dla każdego z członków zespołu
-- Założenie repozytorium z dostępem dla każdego z członków zespołu oraz JakubSyta. Nie trzeba trzeba klonować repozytorium na dysk lokalny
-- Opisanie produktu (wymagań biznesowych) – co najmniej po 5000 słów dla 30 różnych produktów 
-- Po 333 merytoryczne commity z pull request pochodzące od **każdej** osoby
-- Połączenie opisu w jedną całość (merge pull request)
-- Na koniec projektu proponuję usunąć niepotrzebne dane z GitHub
+1. Założenie użytkownika dla każdego z członków zespołu
+1. Założenie repozytorium z dostępem dla każdego z członków zespołu oraz JakubSyta. Nie trzeba trzeba klonować repozytorium na dysk lokalny
+1. Opisanie produktu (wymagań biznesowych) – co najmniej po 5000 słów dla 30 różnych produktów 
+1. Po 333 merytoryczne commity z pull request pochodzące od **każdej** osoby
+1. Połączenie opisu w jedną całość (merge pull request)
+1. Na koniec projektu proponuję usunąć niepotrzebne dane z GitHub
 
 
 **Opis produktu** powinien zawierać takie "wymagania biznesowe" jak...
