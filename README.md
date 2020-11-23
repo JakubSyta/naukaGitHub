@@ -16,8 +16,8 @@ W ramach zajęć z przedmiotu *"Zarządzanie projektami informatycznymi"* chcę 
 - Połączenie opisu w jedną całość (merge pull request)
 - Na koniec projektu proponuję usunąć niepotrzebne dane z GitHub
 
-**Opis produktu** 
 
-Zdefiniowanie charakteru, celu, funkcji, wyglądu produktów
-Potwierdzenie kto będzie użytkownikiem
-Ustalenie skąd będą pochodziły informacje na temat jego funkcjonowania 
+**Opis produktu** powinien zawierać takie kwestie jak...
+- Zdefiniowanie charakteru, celu, funkcji, wyglądu produktów
+- Potwierdzenie kto będzie użytkownikiem
+- Ustalenie skąd będą pochodziły informacje na temat jego funkcjonowania 
