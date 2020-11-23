@@ -22,6 +22,12 @@ W ramach zajęć z przedmiotu *"Zarządzanie projektami informatycznymi"* chcę 
 - Potwierdzenie kto będzie użytkownikiem
 - Ustalenie skąd będą pochodziły informacje na temat jego funkcjonowania 
 
-##Czynności
-1. edytuj plik
-2. Wybierz "Create a new branch for this commit and start a pull request", podaj nazwę i wciśnij przycisk "Commit changes"
+## Czynności
+1. Wybierz zakładkę *"Code"* i edytuj plik README.dm (ikona po prawej). Wygląd zmian możesz zobaczyć w zakładce *"Preview changes"*
+1. Gdy skończysz edycję wybierz *"Create a new branch for this commit and start a pull request"* i wciśnij przycisk *"Commit changes"*
+1. pozostaw tę samą nazwę pliku, wpisz w komentarzu co zmieniłeś i wybierz *"Create pull request"*
+1. Wybierz zakładkę *"Pull request"* - tam powinno pojawić się "1"
+1. Przejrzyj wprowadzone zmiany "Update README.dm". Skomentuj je wykorzystując przycisk po prawej stronie *"Review changes"* klikając na końcu przycisk *"Submit review"*
+1. Zostaniesz przeniesiony na głównej zakładki *"Pull request"* - Wybierz przycisk *"Merege pull request"* oraz następnie *"Confirm merege"*
+1. Gdy ponownie wejdziecie w zakładkę *"Code"* zobaczysz, że zmiany zostały wprowadzone
+**UWAGA - przypilnujcie by nie zatwierdzać własnych zmian, a wyłącznie cudze**
