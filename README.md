@@ -2,7 +2,7 @@
 
 Tutaj w ramach pliku readme.md mogę zacząć opisywać podstawowe informacje na temat projektu.
 
-Istone byście wiedzieli, że oprócz bycia doskonałym narzędziem dla zapewniania pracy grupowej nad programowaniem można korzystać z git do celów wspólnego pisania dokumentacji i szczegółowego analizowania poczynionych zmian.
+Istotne byście wiedzieli, że oprócz bycia doskonałym narzędziem dla zapewniania pracy grupowej nad programowaniem można korzystać z git do celów wspólnego pisania dokumentacji i szczegółowego analizowania poczynionych zmian.
 
 Niekoniecznie jest to tak eleganckie i czytelne jak w innych narzędziach, ale **DOSKONALE** nadaje się do weryfikacji i akceptacji poczynionych zmian.
 Istnieją co prawda narzędzia dedykowane do tego typu "kolaboracji" jak np. gitbook, ale coś mi w nich zawsze nie pasowało.
@@ -25,7 +25,7 @@ W ramach zajęć z przedmiotu *"Zarządzanie projektami informatycznymi"* chcę 
 
 ## Czynności
 1. Wybierz zakładkę *"Code"* i edytuj plik README.dm (ikona po prawej). Wygląd zmian możesz zobaczyć w zakładce *"Preview changes"*
-1. Gdy skończysz edycję wybierz ***"Create a new branch for this commit and start a pull request"*** i wciśnij przycisk *"Commit changes"*
+1. Gdy skończysz edycję wybierz ***"Create a new branch for this commit and start a pull request"*** i wciśnij przycisk *"Commit changes"*  *(propozycja - załóżcie osobny branch dla każdej z opisywanych funkcjonalności*
 1. Pozostaw tę samą nazwę pliku, wpisz w komentarzu co zmieniłeś i wybierz *"Create pull request"*
 1. Wybierz zakładkę *"Pull request"* - tam powinno pojawić się "1"
 1. Przejrzyj wprowadzone zmiany "Update README.dm". Skomentuj je wykorzystując przycisk po prawej stronie *"Review changes"* klikając na końcu przycisk *"Submit review"*
