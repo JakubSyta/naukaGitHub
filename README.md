@@ -1,8 +1,8 @@
 # nauka GitHub
 
-Tutaj w ramach pliku readme.md mogę zacząć opisywać podstawowe informacje na temat projektu.
+Tutaj w 1231231231kjnfvkjn kjnkvjfn ramach pliku readme.md mogę zacząć opisywać podstawowe informacje na temat projektu.
 
-Istone byście wiedzieli, że oprócz bycia doskonałym narzędziem dla zapewniania pracy grupowej nad programowaniem można korzystać z git do celów wspólnego pisania dokumentacji i szczegółowego analizowania poczynionych zmian.
+Istone byscie wiedzieli, że oprócz bycia doskonałym narzędziem dla zapewniania pracy grupowej nad programowaniem można korzystać z git do celów wspólnego pisania dokumentacji i szczegółowego analizowania poczynionych zmian.
 
 Niekoniecznie jest to tak eleganckie i czytelne jak w innych narzędziach, ale **DOSKONALE** nadaje się do weryfikacji i akceptacji poczynionych zmian.
 Istnieją co prawda narzędzia dedykowane do tego typu "kolaboracji" jak np. gitbook, ale coś mi w nich zawsze nie pasowało.
