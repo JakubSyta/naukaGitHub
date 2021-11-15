@@ -1,10 +1,10 @@
 # nauka GitHub
 
-Tutaj w ramach pliku readme.md mogę zacząć opisywać podstawowe informacje na temat projektu.
+Tutaj oraz tam w ramach pliku readme.md mogę zacząć opisywać podstawowe informacje na temat projektu.
 
 Istone byście wiedzieli, że oprócz bycia doskonałym narzędziem dla zapewniania pracy grupowej nad programowaniem można korzystać z git do celów wspólnego pisania dokumentacji i szczegółowego analizowania poczynionych zmian.
 
-Niekoniecznie jest to tak eleganckie i czytelne jak w innych narzędziach, ale **DOSKONALE** nadaje się do weryfikacji i akceptacji poczynionych zmian.
+Niekoniecznie jest to tak eleganckie i czytelne i piękne jak w innych narzędziach, ale **DOSKONALE** nadaje się do weryfikacji i akceptacji poczynionych zmian.
 Istnieją co prawda narzędzia dedykowane do tego typu "kolaboracji" jak np. gitbook, ale coś mi w nich zawsze nie pasowało.
 Jak najbardziej jednak możecie je wykorzystywać w ramach projektu.
 
@@ -18,7 +18,7 @@ W ramach zajęć z przedmiotu *"Zarządzanie projektami informatycznymi"* chcę 
 1. Na koniec projektu (w połowie stycznia) proponuję usunąć niepotrzebne dane z GitHub
 
 
-**Opis produktu** powinien zawierać takie "wymagania biznesowe" jak...
+**Opis produktu** MUSI zawierać takie "wymagania biznesowe" jak...
 - Zdefiniowanie charakteru, celu, funkcji, wyglądu produktów
 - Potwierdzenie kto będzie użytkownikiem
 - Ustalenie skąd będą pochodziły informacje na temat jego funkcjonowania 
