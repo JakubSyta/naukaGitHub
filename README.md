@@ -12,7 +12,7 @@ Jak najbardziej jednak możecie je wykorzystywać w ramach projektu.
 W ramach zajęć z przedmiotu *"Zarządzanie projektami informatycznymi"* chcę byście wykonali następujące czynności:
 1. Założenie użytkownika dla każdego z członków zespołu
 1. Założenie repozytorium z dostępem dla każdego z członków zespołu oraz użytkownika **JakubSyta**. Nie trzeba trzeba klonować repozytorium na dysk lokalny
-1. Opisanie produktu (wymagań biznesowych) – (każdy produkt niech ma osobną gałąź czyli branch) -> dzięki temu każda funkcjonalność będzie mogła być rozwijana niezależnie od pozostałych
+1. Opisanie 3 produktów (*wymagań biznesowych*) – (każdy artefaktt niech ma osobną gałąź czyli branch) -> dzięki temu każda funkcjonalność będzie mogła być rozwijana niezależnie od pozostałych
 1. Pamiętajcie, że gdy jesteście pewni co do propozycji treści to takie commity (czyli *propozycje zmian*) z należy scalić z treścią dokumentu robiąc pull request (czyli *zatwierdzeniem* - zazwyczaj przez inną osobę). Chcę widzieć _commity_ pochodzące od **każdej** osoby
 1. Gotowy dokument powinien być połączony w jedną całość (*merge pull request*)
 1. Na koniec projektu (w połowie stycznia) proponuję usunąć niepotrzebne dane z GitHub
